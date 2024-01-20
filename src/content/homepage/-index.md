@@ -1,13 +1,13 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "takeee's website"
+  content: "Twitch & YouTube Live Streaming."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/astroplate"
+    label: "Go Twitch"
+    link: "https://www.twitch.tv/takeite4syy"
 
 # Features
 features:

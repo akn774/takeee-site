@@ -1,24 +1,19 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "FaFacebook",
-      "link": "https://www.facebook.com/"
+      "name": "twitch",
+      "icon": "FaTwitch",
+      "link": "https://www.twitch.tv/takeite4syy"
+    },
+    {
+      "name": "youtube",
+      "icon": "FaYoutube",
+      "link": "https://twitter.com/takeit_e4sy"
     },
     {
       "name": "twitter",
-      "icon": "FaTwitter",
-      "link": "https://twitter.com/"
-    },
-    {
-      "name": "github",
-      "icon": "FaGithub",
-      "link": "https://www.github.com/"
-    },
-    {
-      "name": "linkedin",
-      "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/"
+      "icon": "FaXTwitter",
+      "link": "https://twitter.com/takeit_e4sy"
     }
   ]
 }
